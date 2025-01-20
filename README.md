@@ -12,7 +12,7 @@ Weekly Sales Trend: Provides granular insights into weekly patterns.
 Sales Dashboard: Summarizes sales metrics, product category insights, and brand performance.  
 Revenue by States: An interactive map showcasing revenue generated in different regions.
 ## File
-Power BI File: Digital_Accessories_sales.pbix contains all visualizations and data models used to generate this dashboard.
+Power BI File: Electronics_Sales.pbix contains all visualizations and data models used to generate this dashboard.
 ## How to Use
 Download the .pbix file from this repository.  
 Open it in Power BI Desktop.  
@@ -25,5 +25,16 @@ Gain actionable insights to improve business performance.
 Power BI Desktop  
 Interactive Visualizations  
 Data Modeling and DAX
-  
-Feel free to reach out if you have any questions or suggestions! 😊
+## Connect
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramzan-asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
+
+---
+
+**Syed Ramzan Asif**  
+Student at FAST NUCES Karachi  
+Aspiring Data Scientist
+
+---
+
+## Hashtags
+#DataScience #PowerBI #SalesAnalytics #DataVisualization #Analytics #DataScienceProject #LearningJourney
