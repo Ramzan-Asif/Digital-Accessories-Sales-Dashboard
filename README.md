@@ -1,5 +1,5 @@
-# Digital-Accessories-Sales-Dashboard
-This repository contains a Power BI dashboard designed to analyze and visualize sales data for digital/electronic products and accessories. The dashboard provides key insights into sales trends, product performance, and revenue distribution across various categories and regions.
+# Electronics-Sales-Dashboard
+This repository contains a Power BI dashboard designed to analyze and visualize sales data for digital & electronic products and accessories. The dashboard provides key insights into sales trends, product performance, and revenue distribution across various categories and regions.
 
 ## Key Features
 Sales Overview: Displays total sales, revenue, profit, and product count.  
