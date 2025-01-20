@@ -13,6 +13,7 @@ Sales Dashboard: Summarizes sales metrics, product category insights, and brand 
 Revenue by States: An interactive map showcasing revenue generated in different regions.
 ## File
 Power BI File: Electronics_Sales.pbix contains all visualizations and data models used to generate this dashboard.
+## Snapshots
 ## How to Use
 Download the .pbix file from this repository.  
 Open it in Power BI Desktop.  
