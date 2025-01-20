@@ -11,11 +11,11 @@ Weekly Sales Trend: Provides granular insights into weekly patterns.
 ## Pages
 Sales Dashboard: Summarizes sales metrics, product category insights, and brand performance.  
 Revenue by States: An interactive map showcasing revenue generated in different regions.
-## File
-Power BI File: Electronics_Sales.pbix contains all visualizations and data models used to generate this dashboard.
 ## Snapshots
 ![Image](https://github.com/user-attachments/assets/6e543f04-3006-429a-b2a5-99bf1582e6ce)
 ![Image](https://github.com/user-attachments/assets/70180047-57eb-4acc-94a8-dc16819b72f0)
+## File
+Power BI File: Electronics_Sales.pbix contains all visualizations and data models used to generate this dashboard.
 ## How to Use
 Download the .pbix file from this repository.  
 Open it in Power BI Desktop.  
